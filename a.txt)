@@ -1,0 +1,15 @@
+Friendly_Name=BOS
+Friendly_Description=Install a Backoffice server (ter=901)
+Terminal_Type=bos
+Install_Operator=True
+Install_OperatorKiosk=False
+Install_Service_SmsHttps=True
+Install_Service_SmsPay=False
+Install_Service_SmsDevice=False
+Install_Service_SmsLog=True
+Install_Service_Arch=64-bit
+Predefined=True
+download_option_all=All
+download_sample_all=All
+download_plugin_all=All
+download_sampledemo_all=All
